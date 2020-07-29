@@ -1,3 +1,3 @@
 import os
 
-IMAGES_DIR = "/home/molly/img"
+IMAGES_DIR = "/root/img"
